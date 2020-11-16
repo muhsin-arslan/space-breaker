@@ -1,0 +1,51 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DestructoBeamBB-Bold
+FamilyName:DestructoBeam BB
+StyleName:Bold
+FullName:DestructoBeam BB Bold
+MenuName:DestructoBeam BB
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\arsla\Desktop\block-breaker\Design\Font\destructobeam-bb\destructobeambb_bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35332
+FileModTime:1146297726
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,DestructoBeam BB Bold
+NameArray:0,Mac,4,DestructoBeam BB Bold
+NameArray:0,Win,1,DestructoBeam BB
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DestructoBeamBB
+FamilyName:DestructoBeam BB
+StyleName:Regular
+FullName:DestructoBeam BB
+MenuName:DestructoBeam BB
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\arsla\Desktop\block-breaker\Design\Font\destructobeam-bb\destructobeambb_reg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:31552
+FileModTime:1146297734
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,DestructoBeam BB
+NameArray:0,Mac,4,DestructoBeam BB
+NameArray:0,Win,1,DestructoBeam BB
+%EndFont
+
